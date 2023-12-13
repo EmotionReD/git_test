@@ -1,1 +1,2 @@
 Hello World! Beginning my journey to become a dev!
+Currently undergoing foundations-git-basics
